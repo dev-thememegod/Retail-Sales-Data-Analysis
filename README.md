@@ -61,10 +61,10 @@ To enhance user experience, each dashboard is equipped with slicers for dynamic 
 
 ## <h2>Screenshots</h2>
 Include screenshots of the dashboards to give a visual preview of the project:
-- [Home Page](https://github.com/dev-thememegod/Retail-Sales-Data-Analysis/blob/main/dash%201.png)
-- [Sales Dashboard Screenshot](https://github.com/dev-thememegod/Retail-Sales-Data-Analysis/blob/main/dash%202.png)
-- [Products Dashboard Screenshot](https://github.com/dev-thememegod/Retail-Sales-Data-Analysis/blob/main/dash%204.png)
-- [Customers Dashboard Screenshot](https://github.com/dev-thememegod/Retail-Sales-Data-Analysis/blob/main/dash%203.png)
+![Home Page](https://github.com/dev-thememegod/Retail-Sales-Data-Analysis/blob/main/dash%201.png)
+![Sales Dashboard Screenshot](https://github.com/dev-thememegod/Retail-Sales-Data-Analysis/blob/main/dash%202.png)
+![Products Dashboard Screenshot](https://github.com/dev-thememegod/Retail-Sales-Data-Analysis/blob/main/dash%204.png)
+![Customers Dashboard Screenshot](https://github.com/dev-thememegod/Retail-Sales-Data-Analysis/blob/main/dash%203.png)
 
 ## **Contributing**
 Feel free to contribute by forking the repository and making enhancements. Pull requests are welcome for new features or improvements.
