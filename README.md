@@ -1,4 +1,4 @@
-# <h1>Interactive Power BI Dashboards: Sales, Products, and Customers Analysis</h1>
+# <h1>Interactive Power BI Retail Sales Dashboard</h1>
 
 ## <h2>Project Overview</h2>
 <p>This project showcases three dynamic and minimalistic Power BI dashboards that provide insights into Sales, Products, and Customer behavior. The goal is to present a comprehensive analysis of key business metrics, enabling easy exploration and data-driven decisions through an intuitive interface.</p>
