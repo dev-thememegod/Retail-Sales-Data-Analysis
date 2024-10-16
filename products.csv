@@ -1,0 +1,501 @@
+product_id,product_name,category,price
+1,Smart TV 1,Toys,262.70
+2,Jacket 2,Sports,275.17
+3,Milk 3,Automotive,708.35
+4,Jacket 4,Automotive,261.23
+5,Chair 5,Automotive,306.95
+6,Car Battery 6,Electronics,824.19
+7,Jacket 7,Books,239.64
+8,Chair 8,Books,325.29
+9,Running Shoes 9,Beauty,975.33
+10,Chair 10,Health,196.58
+11,Chair 11,Automotive,862.26
+12,Table 12,Furniture,538.86
+13,Smartphone 13,Books,130.85
+14,Running Shoes 14,Automotive,938.82
+15,Car Battery 15,Clothing,357.12
+16,Action Figure 16,Toys,342.32
+17,Wireless Earbuds 17,Automotive,282.49
+18,Action Figure 18,Sports,409.52
+19,Action Figure 19,Beauty,668.60
+20,Shampoo 20,Beauty,130.33
+21,Bicycle 21,Electronics,354.55
+22,Novel 22,Furniture,363.70
+23,Chair 23,Books,204.17
+24,Sofa 24,Clothing,853.70
+25,Car Seat 25,Books,570.85
+26,Smart TV 26,Clothing,796.92
+27,Jacket 27,Furniture,643.97
+28,Table 28,Electronics,844.55
+29,Bicycle 29,Automotive,225.54
+30,Car Seat 30,Furniture,982.83
+31,Running Shoes 31,Groceries,555.65
+32,Sofa 32,Automotive,605.07
+33,Table 33,Electronics,988.70
+34,Car Battery 34,Clothing,345.51
+35,Chair 35,Health,973.73
+36,Smartphone 36,Toys,169.84
+37,Novel 37,Clothing,502.27
+38,Running Shoes 38,Health,913.03
+39,Table 39,Furniture,689.97
+40,Smartphone 40,Electronics,746.58
+41,Running Shoes 41,Sports,436.62
+42,Running Shoes 42,Groceries,497.11
+43,Action Figure 43,Books,972.86
+44,Novel 44,Automotive,843.88
+45,Smartphone 45,Sports,230.96
+46,Table 46,Toys,587.66
+47,T-shirt 47,Beauty,736.42
+48,Running Shoes 48,Furniture,615.40
+49,Smart TV 49,Automotive,928.53
+50,Table 50,Toys,312.96
+51,Car Seat 51,Toys,143.00
+52,Bicycle 52,Clothing,200.66
+53,Chair 53,Clothing,718.20
+54,Laptop 54,Electronics,886.74
+55,Novel 55,Books,706.91
+56,Car Battery 56,Beauty,564.46
+57,Bicycle 57,Books,832.69
+58,Milk 58,Groceries,265.43
+59,Smart TV 59,Electronics,850.53
+60,Sofa 60,Health,847.14
+61,Shampoo 61,Groceries,125.70
+62,Bread 62,Books,514.22
+63,Dumbbell 63,Groceries,679.60
+64,Chair 64,Electronics,627.58
+65,Wireless Earbuds 65,Electronics,502.99
+66,Dress 66,Automotive,207.68
+67,Shampoo 67,Automotive,589.81
+68,Smartphone 68,Furniture,456.86
+69,Novel 69,Furniture,150.17
+70,T-shirt 70,Sports,632.02
+71,Running Shoes 71,Beauty,468.71
+72,Smartphone 72,Clothing,513.34
+73,Shampoo 73,Automotive,451.42
+74,Wireless Earbuds 74,Furniture,252.79
+75,Shampoo 75,Beauty,148.06
+76,Wireless Earbuds 76,Electronics,560.29
+77,Bicycle 77,Beauty,976.30
+78,Action Figure 78,Groceries,352.65
+79,Laptop 79,Clothing,957.91
+80,Jacket 80,Books,473.99
+81,Dumbbell 81,Furniture,221.07
+82,Dumbbell 82,Health,706.02
+83,Sofa 83,Toys,871.08
+84,Smart TV 84,Furniture,202.33
+85,Vitamins 85,Electronics,825.23
+86,Car Battery 86,Toys,457.47
+87,Dress 87,Groceries,487.00
+88,Laptop 88,Clothing,343.18
+89,Milk 89,Groceries,262.86
+90,Novel 90,Health,139.89
+91,Jacket 91,Beauty,829.04
+92,Vitamins 92,Toys,461.28
+93,Bicycle 93,Furniture,959.51
+94,Chair 94,Health,852.79
+95,Smartphone 95,Sports,627.49
+96,Milk 96,Health,380.03
+97,Bread 97,Groceries,572.50
+98,Table 98,Clothing,491.09
+99,Car Seat 99,Toys,444.43
+100,Sofa 100,Toys,119.17
+101,T-shirt 101,Beauty,260.54
+102,Sofa 102,Health,862.60
+103,Chair 103,Books,880.87
+104,Bread 104,Automotive,923.38
+105,Chair 105,Books,427.21
+106,Dumbbell 106,Groceries,143.15
+107,Smartphone 107,Sports,886.73
+108,Wireless Earbuds 108,Sports,272.04
+109,Smart TV 109,Clothing,846.04
+110,Shampoo 110,Groceries,866.57
+111,Novel 111,Electronics,603.95
+112,Dress 112,Electronics,948.73
+113,Sofa 113,Sports,882.81
+114,Shampoo 114,Furniture,630.20
+115,Car Battery 115,Furniture,804.09
+116,Dumbbell 116,Furniture,410.02
+117,Table 117,Books,948.92
+118,Bicycle 118,Beauty,463.10
+119,Chair 119,Automotive,675.02
+120,Smart TV 120,Clothing,672.54
+121,Novel 121,Books,162.96
+122,Jacket 122,Groceries,213.48
+123,Dumbbell 123,Sports,313.24
+124,T-shirt 124,Automotive,829.40
+125,Novel 125,Clothing,766.37
+126,Table 126,Books,899.86
+127,Smart TV 127,Automotive,167.92
+128,Car Seat 128,Toys,969.84
+129,Car Seat 129,Toys,816.44
+130,Shampoo 130,Beauty,186.66
+131,Table 131,Electronics,313.60
+132,Smart TV 132,Furniture,908.37
+133,Shampoo 133,Toys,419.24
+134,Car Battery 134,Automotive,277.58
+135,Chair 135,Automotive,982.12
+136,Action Figure 136,Groceries,171.35
+137,Car Battery 137,Beauty,638.42
+138,T-shirt 138,Electronics,337.62
+139,Novel 139,Groceries,206.87
+140,Wireless Earbuds 140,Automotive,702.84
+141,Bread 141,Groceries,232.20
+142,Chair 142,Groceries,187.27
+143,Milk 143,Furniture,821.38
+144,Dress 144,Books,722.71
+145,Dumbbell 145,Health,341.33
+146,Car Battery 146,Electronics,535.70
+147,Bicycle 147,Furniture,529.01
+148,Novel 148,Automotive,688.04
+149,Dumbbell 149,Sports,168.16
+150,Dress 150,Clothing,453.19
+151,T-shirt 151,Groceries,929.20
+152,Dress 152,Furniture,843.01
+153,Laptop 153,Electronics,742.75
+154,Dress 154,Sports,381.89
+155,Jacket 155,Beauty,574.71
+156,Jacket 156,Health,681.80
+157,Car Battery 157,Groceries,960.84
+158,Dumbbell 158,Sports,696.68
+159,Vitamins 159,Groceries,366.97
+160,Novel 160,Toys,132.78
+161,Smart TV 161,Beauty,670.84
+162,Laptop 162,Health,593.88
+163,Running Shoes 163,Groceries,678.95
+164,Action Figure 164,Electronics,317.47
+165,Car Battery 165,Sports,113.63
+166,Sofa 166,Electronics,400.02
+167,Bread 167,Automotive,335.44
+168,Smart TV 168,Sports,642.08
+169,Car Battery 169,Electronics,929.24
+170,Shampoo 170,Automotive,960.14
+171,Bread 171,Groceries,464.71
+172,Table 172,Groceries,706.68
+173,Action Figure 173,Groceries,469.47
+174,Laptop 174,Furniture,413.39
+175,Wireless Earbuds 175,Sports,438.20
+176,Laptop 176,Groceries,586.78
+177,Vitamins 177,Health,125.51
+178,Shampoo 178,Toys,304.52
+179,Milk 179,Automotive,114.31
+180,Novel 180,Sports,204.10
+181,Smart TV 181,Sports,414.49
+182,Car Seat 182,Health,554.37
+183,Wireless Earbuds 183,Furniture,863.17
+184,Milk 184,Automotive,663.16
+185,Chair 185,Toys,292.83
+186,Action Figure 186,Clothing,675.21
+187,Bread 187,Furniture,529.63
+188,Smart TV 188,Clothing,118.61
+189,Sofa 189,Electronics,546.01
+190,Wireless Earbuds 190,Beauty,787.55
+191,Dumbbell 191,Sports,934.31
+192,Car Battery 192,Sports,482.98
+193,Shampoo 193,Electronics,105.96
+194,Car Seat 194,Toys,447.67
+195,Bread 195,Furniture,945.02
+196,Table 196,Electronics,406.01
+197,Smart TV 197,Sports,436.34
+198,Bicycle 198,Groceries,986.70
+199,Table 199,Beauty,711.28
+200,Wireless Earbuds 200,Toys,873.33
+201,Table 201,Groceries,153.96
+202,Dumbbell 202,Sports,526.44
+203,Dumbbell 203,Sports,393.20
+204,Car Seat 204,Groceries,409.07
+205,Car Battery 205,Automotive,471.62
+206,Shampoo 206,Automotive,461.58
+207,Car Seat 207,Books,254.06
+208,Car Battery 208,Health,111.09
+209,Dumbbell 209,Beauty,180.57
+210,Sofa 210,Clothing,494.47
+211,Jacket 211,Toys,791.67
+212,Running Shoes 212,Books,858.93
+213,Wireless Earbuds 213,Beauty,761.71
+214,Wireless Earbuds 214,Furniture,279.51
+215,Chair 215,Books,425.58
+216,Laptop 216,Clothing,579.24
+217,Vitamins 217,Groceries,227.28
+218,Wireless Earbuds 218,Health,707.81
+219,Milk 219,Health,880.72
+220,Chair 220,Toys,547.27
+221,Table 221,Health,160.96
+222,Laptop 222,Electronics,771.25
+223,Shampoo 223,Clothing,871.51
+224,Smart TV 224,Toys,353.86
+225,Car Seat 225,Toys,838.85
+226,Laptop 226,Toys,139.58
+227,Running Shoes 227,Clothing,379.92
+228,Laptop 228,Groceries,871.18
+229,Car Seat 229,Groceries,815.48
+230,Action Figure 230,Beauty,784.80
+231,Shampoo 231,Books,210.66
+232,Dress 232,Health,659.05
+233,Laptop 233,Furniture,669.96
+234,Laptop 234,Automotive,906.46
+235,Shampoo 235,Books,822.00
+236,Smartphone 236,Books,101.14
+237,T-shirt 237,Health,740.79
+238,Running Shoes 238,Beauty,866.64
+239,Novel 239,Groceries,786.11
+240,Jacket 240,Groceries,285.29
+241,Action Figure 241,Electronics,576.23
+242,Smartphone 242,Beauty,313.89
+243,Wireless Earbuds 243,Furniture,191.36
+244,Bicycle 244,Sports,868.56
+245,Bicycle 245,Groceries,359.05
+246,Smartphone 246,Electronics,553.71
+247,Jacket 247,Furniture,930.08
+248,Milk 248,Automotive,520.23
+249,Wireless Earbuds 249,Groceries,597.92
+250,Chair 250,Toys,646.25
+251,T-shirt 251,Clothing,707.02
+252,Table 252,Beauty,271.14
+253,Wireless Earbuds 253,Clothing,201.33
+254,Car Battery 254,Groceries,263.99
+255,Vitamins 255,Electronics,520.39
+256,Chair 256,Electronics,864.44
+257,Smartphone 257,Automotive,767.00
+258,Smart TV 258,Books,646.33
+259,Car Battery 259,Automotive,258.83
+260,Vitamins 260,Furniture,922.79
+261,Smartphone 261,Sports,331.25
+262,Milk 262,Toys,181.10
+263,Smart TV 263,Sports,785.63
+264,Novel 264,Groceries,394.08
+265,Dumbbell 265,Furniture,559.98
+266,Running Shoes 266,Automotive,711.88
+267,Vitamins 267,Groceries,400.69
+268,Wireless Earbuds 268,Furniture,597.90
+269,T-shirt 269,Electronics,570.99
+270,Shampoo 270,Furniture,527.63
+271,Wireless Earbuds 271,Health,611.23
+272,Milk 272,Toys,728.59
+273,Smartphone 273,Toys,690.22
+274,Laptop 274,Sports,810.58
+275,Car Seat 275,Electronics,295.18
+276,Milk 276,Books,117.82
+277,Bread 277,Automotive,212.25
+278,Jacket 278,Groceries,442.54
+279,Smart TV 279,Clothing,953.38
+280,Running Shoes 280,Beauty,628.77
+281,Bicycle 281,Beauty,190.95
+282,Dress 282,Health,630.66
+283,Vitamins 283,Toys,665.69
+284,Smartphone 284,Furniture,264.23
+285,Car Battery 285,Beauty,551.47
+286,Dress 286,Groceries,911.75
+287,Table 287,Beauty,810.72
+288,Bread 288,Groceries,739.92
+289,Vitamins 289,Furniture,278.15
+290,Milk 290,Furniture,120.14
+291,Smartphone 291,Beauty,330.49
+292,T-shirt 292,Health,800.17
+293,Smart TV 293,Sports,469.82
+294,Smartphone 294,Electronics,101.29
+295,Bicycle 295,Furniture,394.60
+296,Running Shoes 296,Sports,363.44
+297,Bread 297,Automotive,669.53
+298,Running Shoes 298,Electronics,364.88
+299,Novel 299,Sports,526.89
+300,Milk 300,Clothing,963.13
+301,Bicycle 301,Books,247.91
+302,Wireless Earbuds 302,Automotive,526.02
+303,Smartphone 303,Toys,219.00
+304,Novel 304,Books,521.96
+305,Jacket 305,Books,174.50
+306,Vitamins 306,Groceries,955.20
+307,Milk 307,Groceries,730.96
+308,Dumbbell 308,Books,438.12
+309,Laptop 309,Sports,149.62
+310,Dumbbell 310,Electronics,696.43
+311,Sofa 311,Toys,921.85
+312,Chair 312,Electronics,562.25
+313,Milk 313,Health,192.67
+314,Shampoo 314,Books,479.72
+315,Sofa 315,Electronics,760.20
+316,Action Figure 316,Groceries,395.52
+317,Vitamins 317,Health,110.88
+318,Car Seat 318,Books,621.30
+319,Sofa 319,Books,603.59
+320,Dress 320,Toys,939.97
+321,Running Shoes 321,Electronics,530.72
+322,Sofa 322,Books,398.15
+323,Bread 323,Clothing,603.50
+324,Action Figure 324,Electronics,613.56
+325,Car Battery 325,Automotive,319.59
+326,Laptop 326,Toys,511.68
+327,Car Seat 327,Health,409.46
+328,Jacket 328,Groceries,197.41
+329,Vitamins 329,Furniture,833.69
+330,Dumbbell 330,Electronics,114.78
+331,Running Shoes 331,Groceries,641.21
+332,Car Seat 332,Books,360.57
+333,Sofa 333,Groceries,956.67
+334,T-shirt 334,Health,649.55
+335,Laptop 335,Toys,390.47
+336,Dress 336,Groceries,110.53
+337,T-shirt 337,Electronics,921.43
+338,Car Battery 338,Electronics,668.18
+339,Table 339,Automotive,472.72
+340,Car Seat 340,Sports,299.69
+341,Car Battery 341,Health,164.47
+342,Shampoo 342,Beauty,709.69
+343,Dumbbell 343,Automotive,185.93
+344,Bicycle 344,Groceries,302.52
+345,Bicycle 345,Health,344.88
+346,Novel 346,Electronics,142.73
+347,Action Figure 347,Groceries,239.08
+348,Car Battery 348,Groceries,638.09
+349,Jacket 349,Toys,170.15
+350,Novel 350,Electronics,204.14
+351,T-shirt 351,Groceries,822.20
+352,Running Shoes 352,Groceries,506.15
+353,Wireless Earbuds 353,Groceries,759.35
+354,Car Battery 354,Health,289.31
+355,Dress 355,Beauty,877.38
+356,Jacket 356,Beauty,731.50
+357,Dress 357,Electronics,192.96
+358,Bicycle 358,Groceries,825.43
+359,Car Battery 359,Clothing,333.35
+360,Sofa 360,Furniture,185.23
+361,Smart TV 361,Groceries,803.95
+362,Action Figure 362,Toys,730.87
+363,Bicycle 363,Books,244.31
+364,Dress 364,Beauty,154.62
+365,Jacket 365,Health,192.97
+366,Wireless Earbuds 366,Beauty,207.63
+367,Car Seat 367,Groceries,904.43
+368,Laptop 368,Furniture,906.09
+369,Laptop 369,Automotive,815.88
+370,Smart TV 370,Health,582.99
+371,Car Battery 371,Automotive,352.79
+372,Car Seat 372,Sports,215.91
+373,Milk 373,Sports,548.25
+374,Running Shoes 374,Toys,443.98
+375,Smartphone 375,Groceries,316.62
+376,Bicycle 376,Electronics,252.99
+377,Vitamins 377,Automotive,589.46
+378,Dress 378,Clothing,222.23
+379,Smart TV 379,Electronics,533.30
+380,Dress 380,Groceries,112.11
+381,Sofa 381,Clothing,944.65
+382,Milk 382,Toys,874.07
+383,Dumbbell 383,Groceries,990.74
+384,Car Seat 384,Sports,629.94
+385,Action Figure 385,Electronics,690.32
+386,Action Figure 386,Electronics,802.26
+387,Laptop 387,Beauty,978.91
+388,Dress 388,Groceries,750.97
+389,Sofa 389,Groceries,388.91
+390,Milk 390,Electronics,862.62
+391,Dress 391,Toys,188.56
+392,Smartphone 392,Electronics,840.61
+393,Vitamins 393,Clothing,547.59
+394,Bicycle 394,Books,489.39
+395,Shampoo 395,Beauty,623.99
+396,Sofa 396,Beauty,363.08
+397,Car Seat 397,Beauty,235.84
+398,Wireless Earbuds 398,Toys,805.90
+399,Sofa 399,Automotive,932.74
+400,Running Shoes 400,Groceries,640.95
+401,Novel 401,Clothing,151.72
+402,Jacket 402,Toys,667.40
+403,Vitamins 403,Clothing,304.46
+404,Action Figure 404,Electronics,862.98
+405,Bicycle 405,Toys,750.81
+406,Wireless Earbuds 406,Books,122.87
+407,Running Shoes 407,Furniture,439.54
+408,Vitamins 408,Beauty,245.01
+409,Table 409,Groceries,997.78
+410,Shampoo 410,Clothing,547.21
+411,Running Shoes 411,Furniture,809.98
+412,Car Battery 412,Clothing,646.72
+413,Shampoo 413,Health,277.56
+414,Smart TV 414,Toys,778.91
+415,Car Seat 415,Toys,436.42
+416,Table 416,Health,523.10
+417,Laptop 417,Furniture,618.33
+418,Wireless Earbuds 418,Automotive,288.40
+419,Novel 419,Furniture,268.21
+420,Wireless Earbuds 420,Toys,480.34
+421,Chair 421,Electronics,492.95
+422,T-shirt 422,Furniture,515.93
+423,Table 423,Furniture,443.79
+424,Milk 424,Groceries,206.30
+425,Novel 425,Books,560.60
+426,Car Battery 426,Electronics,200.13
+427,Jacket 427,Books,646.74
+428,Bread 428,Toys,204.99
+429,Bicycle 429,Sports,813.57
+430,Smart TV 430,Electronics,746.64
+431,Jacket 431,Furniture,878.44
+432,Novel 432,Furniture,294.50
+433,Chair 433,Automotive,763.36
+434,Smart TV 434,Automotive,191.52
+435,Running Shoes 435,Electronics,647.37
+436,Car Seat 436,Automotive,994.97
+437,Laptop 437,Toys,794.64
+438,Jacket 438,Health,562.15
+439,Bread 439,Clothing,413.67
+440,Wireless Earbuds 440,Toys,574.22
+441,Smart TV 441,Groceries,782.22
+442,Milk 442,Furniture,974.39
+443,Table 443,Clothing,798.04
+444,Novel 444,Groceries,954.32
+445,Table 445,Toys,852.89
+446,Smartphone 446,Health,325.95
+447,Smartphone 447,Groceries,368.19
+448,Action Figure 448,Sports,943.32
+449,T-shirt 449,Furniture,957.29
+450,Sofa 450,Automotive,550.10
+451,Vitamins 451,Groceries,247.58
+452,Dumbbell 452,Books,514.77
+453,Car Battery 453,Sports,441.72
+454,Smartphone 454,Books,674.80
+455,Table 455,Toys,767.22
+456,Wireless Earbuds 456,Sports,888.76
+457,Action Figure 457,Sports,149.89
+458,Chair 458,Health,383.02
+459,Bicycle 459,Furniture,360.54
+460,Sofa 460,Automotive,704.88
+461,Sofa 461,Groceries,168.94
+462,Chair 462,Clothing,901.98
+463,Dumbbell 463,Sports,176.14
+464,Table 464,Health,893.72
+465,Dress 465,Sports,645.08
+466,Car Battery 466,Electronics,721.31
+467,Milk 467,Toys,449.81
+468,Smart TV 468,Health,235.57
+469,Dress 469,Health,185.24
+470,T-shirt 470,Clothing,357.23
+471,Smart TV 471,Health,943.33
+472,T-shirt 472,Books,419.35
+473,Dress 473,Beauty,280.10
+474,Smart TV 474,Beauty,143.94
+475,Bread 475,Furniture,848.54
+476,Dress 476,Furniture,945.36
+477,Chair 477,Automotive,355.77
+478,Bread 478,Furniture,628.23
+479,Dress 479,Groceries,127.80
+480,Vitamins 480,Books,209.09
+481,Laptop 481,Furniture,440.66
+482,Chair 482,Sports,115.44
+483,Dress 483,Health,875.68
+484,Bread 484,Groceries,884.64
+485,Car Seat 485,Furniture,460.97
+486,Bread 486,Clothing,327.06
+487,Sofa 487,Books,376.21
+488,Dress 488,Books,780.61
+489,Laptop 489,Health,845.70
+490,Bicycle 490,Clothing,237.27
+491,Vitamins 491,Sports,672.30
+492,Dumbbell 492,Electronics,592.07
+493,Laptop 493,Clothing,442.78
+494,Car Seat 494,Automotive,331.16
+495,Table 495,Automotive,104.01
+496,Laptop 496,Toys,327.22
+497,Running Shoes 497,Books,501.71
+498,Jacket 498,Sports,812.35
+499,Vitamins 499,Groceries,326.09
+500,Shampoo 500,Health,433.07
