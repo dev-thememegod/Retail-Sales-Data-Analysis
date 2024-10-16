@@ -5,6 +5,7 @@
 
 ## <h2>Key Features</h2>
 <h3>The project includes **three dashboards** that focus on different aspects of the data:</h3>
+
 1. **Sales Dashboard**:
    - Total Sales and Total Quantity Sold (Card): Visualize total revenue and total sold quantity.
    - Total Sales by Month (Line Chart): Tracks sales records every month.
